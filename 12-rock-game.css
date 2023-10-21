@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: arial;
+}
+
+img {
+  height: 60px;
+}
+.move-button {
+  background-color: black;
+  cursor: pointer;
+  border-radius: 70px;
+  border-color: rgb(204, 209, 209);
+  border-style: solid;
+  border-width: 3px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+.move-icon {
+  padding: 30px;
+}
+
+.result {
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.score {
+  margin-top: 62px;
+}
+
+.reset-score-button, .auto-play-button {
+  padding: 10px;
+  background-color: rgb(243, 239, 239);
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
